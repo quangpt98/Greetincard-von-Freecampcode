@@ -1,0 +1,17 @@
+body{
+    background-color:#ddd;
+}
+.container h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.container img {
+    width: 500px;
+    height: 750px;
+}
+.container{
+    background-color:red;
+    margin: 0 auto;
+    width: 600px;
+    text-align: center;
+}
