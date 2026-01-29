@@ -1,0 +1,19 @@
+h1{
+    width: 500px;
+    background-color: aqua;
+    /*text-overflow: ellipsis; ... erstellen */
+    overflow: hidden;
+    
+    /* ... bei 3.Zeilen mit langen Text erstellem */
+    -webkit-line-clamp: 3;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    
+    
+}
+p{
+    /* 1.Horizontal, 2.Vertical 3. Blur , 4. Farben  */
+    text-shadow: -2px 2px 5px #b91c1c; 
+    
+}
